@@ -1,0 +1,9 @@
+j=0
+i=0
+a=1
+d=2
+while(i<4):
+    j=j+a
+    a=a+d
+    i+=1
+print(j)
